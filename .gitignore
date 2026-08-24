@@ -1,0 +1,113 @@
+# ==========================================
+# Herbal Remedies Survey & Data Analytics
+# Git Ignore Configuration
+# ==========================================
+
+# ------------------------------------------
+# Operating System Files
+# ------------------------------------------
+
+.DS_Store
+.DS_Store?
+._*
+Thumbs.db
+ehthumbs.db
+ehthumbs_vista.db
+desktop.ini
+
+
+# ------------------------------------------
+# Microsoft Office Temporary Files
+# ------------------------------------------
+
+~$*.doc
+~$*.docx
+~$*.xls
+~$*.xlsx
+~$*.xlsm
+~$*.ppt
+~$*.pptx
+
+
+# ------------------------------------------
+# Temporary / Backup Files
+# ------------------------------------------
+
+*.tmp
+*.temp
+*.bak
+*.backup
+*.old
+*.swp
+*.swo
+*.orig
+
+
+# ------------------------------------------
+# Logs
+# ------------------------------------------
+
+*.log
+
+
+# ------------------------------------------
+# Python Cache / Generated Files
+# ------------------------------------------
+
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+.venv/
+venv/
+env/
+ENV/
+
+
+# ------------------------------------------
+# Jupyter Notebook
+# ------------------------------------------
+
+.ipynb_checkpoints/
+
+
+# ------------------------------------------
+# IDE / Editor Configuration
+# ------------------------------------------
+
+.vscode/
+.idea/
+*.code-workspace
+
+
+# ------------------------------------------
+# Environment / Secret Files
+# ------------------------------------------
+
+.env
+.env.*
+!.env.example
+
+
+# ------------------------------------------
+# Credentials / Private Keys
+# ------------------------------------------
+
+credentials.json
+secrets.json
+service-account.json
+
+*.pem
+*.key
+*.p12
+*.pfx
+
+
+# ------------------------------------------
+# Build / Cache Directories
+# ------------------------------------------
+
+.cache/
+dist/
+build/

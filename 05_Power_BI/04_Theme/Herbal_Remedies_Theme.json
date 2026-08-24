@@ -1,0 +1,16 @@
+{
+  "name": "Herbal Remedies Survey Theme",
+  "dataColors": [
+    "#2E7D32",
+    "#43A047",
+    "#81C784",
+    "#D84315",
+    "#F9A825",
+    "#1565C0",
+    "#6A1B9A",
+    "#757575"
+  ],
+  "background": "#F8F9FA",
+  "foreground": "#212121",
+  "tableAccent": "#2E7D32"
+}
